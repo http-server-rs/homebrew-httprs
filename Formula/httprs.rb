@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HttpRS < Formula
+class Httprs < Formula
   desc "Simple and configurable command-line HTTP server"
   homepage "https://github.com/http-server-rs"
   url "https://github.com/http-server-rs/http-server/releases/latest/download/http-server_macos-latest"
